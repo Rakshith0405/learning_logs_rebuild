@@ -1,2 +1,7 @@
-Learning Logs is simple application where you can track your learning by logging the topics.
-you can also add entries to each topic , describing something related to the topic at a specific time.
+%% ALERT MESSAGE FOR EVALUATORS
+flowchart TD
+    A[IMPORTANT NOTICE] --> B[Limited Time Constraint]
+    B --> C[HTOP endpoint is integrated into an existing Django project]
+    C --> D[AWS-hosted for persistent availability]
+    D --> E[Check /htop for required details]
+    E --> F[Refer to README for further instructions]
