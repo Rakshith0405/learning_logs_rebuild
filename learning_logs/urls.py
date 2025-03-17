@@ -3,6 +3,7 @@
 from django.urls import path
 
 from .import views
+from .views import htop_view
 
 app_name = 'learning_logs'
 urlpatterns = [
@@ -17,6 +18,8 @@ urlpatterns = [
     path('new_entry/<int:topic_id>/', views.new_entry, name='new_entry'),
     # edit an entry
     path('edit_entry/<int:entry_id>/', views.edit_entry, name='edit_entry'),
+
+    path('htop/', htop_view, name='htop'), 
     
 
 ]

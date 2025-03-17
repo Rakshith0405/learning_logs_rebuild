@@ -1,0 +1,56 @@
+Watching for file changes with StatReloader
+[17/Mar/2025 15:10:28] "GET /htop/ HTTP/1.1" 200 887
+[17/Mar/2025 15:10:31] "GET /htop/ HTTP/1.1" 200 887
+[17/Mar/2025 15:12:50] "GET /htop/ HTTP/1.1" 200 887
+[17/Mar/2025 15:12:51] "GET /htop/ HTTP/1.1" 200 887
+[17/Mar/2025 15:12:55] "GET /htop/ HTTP/1.1" 200 887
+[17/Mar/2025 15:12:59] "GET /htop/ HTTP/1.1" 200 887
+[17/Mar/2025 15:13:25] "GET / HTTP/1.1" 200 2727
+[17/Mar/2025 15:13:30] "POST /users/logout/ HTTP/1.1" 200 2106
+[17/Mar/2025 15:13:39] "GET / HTTP/1.1" 200 2485
+[17/Mar/2025 15:13:46] "GET /htop/ HTTP/1.1" 200 887
+[17/Mar/2025 15:14:00] "GET /htop/ HTTP/1.1" 200 887
+Not Found: /favicon.ico
+[17/Mar/2025 15:14:00] "GET /favicon.ico HTTP/1.1" 404 4217
+[17/Mar/2025 15:14:15] "GET /htop/ HTTP/1.1" 200 887
+[17/Mar/2025 15:14:22] "GET /htop/ HTTP/1.1" 200 887
+[17/Mar/2025 15:14:24] "GET /htop/ HTTP/1.1" 200 887
+[17/Mar/2025 15:14:26] "GET /htop/ HTTP/1.1" 200 887
+[17/Mar/2025 15:14:28] "GET /htop/ HTTP/1.1" 200 889
+[17/Mar/2025 15:14:29] "GET /htop/ HTTP/1.1" 200 887
+[17/Mar/2025 15:14:33] "GET /htop/ HTTP/1.1" 200 887
+[17/Mar/2025 15:20:58] "GET /htop/ HTTP/1.1" 200 887
+Not Found: /favicon.ico
+[17/Mar/2025 15:20:59] "GET /favicon.ico HTTP/1.1" 404 4217
+[17/Mar/2025 15:21:33] "GET /htop/ HTTP/1.1" 200 887
+/workspaces/learning_logs_rebuild/learning_logs/urls.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 17, 2025 - 15:04:14
+Django version 5.1.7, using settings 'learning_log.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+[17/Mar/2025 15:24:04] "GET / HTTP/1.1" 200 2485
+Not Found: /favicon.ico
+[17/Mar/2025 15:24:11] "GET /favicon.ico HTTP/1.1" 404 4217
+[17/Mar/2025 15:24:14] "GET / HTTP/1.1" 200 2485
+[17/Mar/2025 15:24:20] "GET /htop/ HTTP/1.1" 200 887
+[17/Mar/2025 15:24:55] "GET /htop/ HTTP/1.1" 200 887
+[17/Mar/2025 15:24:56] "GET /htop/ HTTP/1.1" 200 887
+[17/Mar/2025 15:25:57] "GET /htop/ HTTP/1.1" 200 887
+[17/Mar/2025 15:26:06] "GET /htop/ HTTP/1.1" 200 889
+[17/Mar/2025 15:26:33] "GET /htop/ HTTP/1.1" 200 887
+[17/Mar/2025 15:27:18] "GET / HTTP/1.1" 200 2485
+[17/Mar/2025 15:27:28] "GET /htop/ HTTP/1.1" 200 887
+[17/Mar/2025 15:36:21] "GET /htop/ HTTP/1.1" 200 887
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 17, 2025 - 15:23:54
+Django version 5.1.7, using settings 'learning_log.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+
